@@ -1,7 +1,7 @@
 ShopifyApp.configure do |config|
   config.application_name = "My Shopify App"
-  config.api_key = "b470f327549b564183141ed465502162"
-  config.secret = "77613133be8c657f2e190028cd86a970"
+  config.api_key = "yyyy"
+  config.secret = "xxxxx"
   config.scope = "read_products, read_orders, read_script_tags, write_script_tags"
   config.embedded_app = true
   config.after_authenticate_job = false
